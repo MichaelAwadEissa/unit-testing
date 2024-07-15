@@ -1,0 +1,25 @@
+{
+  "name": "unit-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "mocha"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MichaelAwadEissa/unit-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichaelAwadEissa/unit-testing/issues"
+  },
+  "homepage": "https://github.com/MichaelAwadEissa/unit-testing#readme",
+  "dependencies": {
+    "mocha": "^10.6.0"
+  }
+}
